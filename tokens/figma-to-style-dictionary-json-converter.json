@@ -1,0 +1,26 @@
+{
+  "color": {
+    "red": {
+      "value": "rgba(255,0,0,1)",
+      "comment": ""
+    },
+    "blue": {
+      "value": "rgba(0,17,255,1)",
+      "comment": ""
+    },
+    "white": {
+      "value": "rgba(255,255,255,1)",
+      "comment": ""
+    }
+  },
+  "size": {
+    "lg": {
+      "value": 100,
+      "comment": ""
+    },
+    "sm": {
+      "value": 50,
+      "comment": ""
+    }
+  }
+}

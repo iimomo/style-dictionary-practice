@@ -1,0 +1,35 @@
+{
+  "コレクション1": {
+    "name": "コレクション1",
+    "red": {
+      "name": "red",
+      "description": "",
+      "value": "#ff0000",
+      "type": "color"
+    },
+    "blue": {
+      "name": "blue",
+      "description": "",
+      "value": "#0011ff",
+      "type": "color"
+    },
+    "white": {
+      "name": "white",
+      "description": "",
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "lg": {
+      "name": "lg",
+      "description": "",
+      "value": "#NaNNaNNaN",
+      "type": "color"
+    },
+    "sm": {
+      "name": "sm",
+      "description": "",
+      "value": "#NaNNaNNaN",
+      "type": "color"
+    }
+  }
+}

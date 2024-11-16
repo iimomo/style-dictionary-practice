@@ -1,0 +1,88 @@
+{
+  "id": "VariableCollectionId:1:2",
+  "name": "コレクション1",
+  "modes": { "1:0": "Mode 1" },
+  "variableIds": [
+    "VariableID:1:3",
+    "VariableID:1:4",
+    "VariableID:6:2",
+    "VariableID:6:3",
+    "VariableID:6:4"
+  ],
+  "variables": [
+    {
+      "id": "VariableID:1:3",
+      "name": "red",
+      "description": "",
+      "type": "COLOR",
+      "valuesByMode": { "1:0": { "r": 1, "g": 0, "b": 0, "a": 1 } },
+      "resolvedValuesByMode": {
+        "1:0": {
+          "resolvedValue": { "r": 1, "g": 0, "b": 0, "a": 1 },
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:1:4",
+      "name": "blue",
+      "description": "",
+      "type": "COLOR",
+      "valuesByMode": {
+        "1:0": { "r": 0, "g": 0.06666667014360428, "b": 1, "a": 1 }
+      },
+      "resolvedValuesByMode": {
+        "1:0": {
+          "resolvedValue": { "r": 0, "g": 0.06666667014360428, "b": 1, "a": 1 },
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6:2",
+      "name": "white",
+      "description": "",
+      "type": "COLOR",
+      "valuesByMode": { "1:0": { "r": 1, "g": 1, "b": 1, "a": 1 } },
+      "resolvedValuesByMode": {
+        "1:0": {
+          "resolvedValue": { "r": 1, "g": 1, "b": 1, "a": 1 },
+          "alias": null
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6:3",
+      "name": "lg",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "1:0": 100 },
+      "resolvedValuesByMode": {
+        "1:0": { "resolvedValue": 100, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:6:4",
+      "name": "sm",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "1:0": 50 },
+      "resolvedValuesByMode": { "1:0": { "resolvedValue": 50, "alias": null } },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    }
+  ]
+}
